@@ -1,1 +1,1 @@
-# hyper-parameter-optimization
+# Hyper-parameter Optimization
